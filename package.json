@@ -39,7 +39,9 @@
   },
   "description": "This project was created with [Create React App](https://github.com/facebook/create-react-app).  To get acquainted and configure additional features [refer to documentation](https://facebook.github.io/create-react-app/docs/getting-started).",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "prop-types": "^15.8.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NazarKr/goit-react-hw-01-components.git"
