@@ -11,7 +11,6 @@ export const Profile = ({ username, tag, location, avatar, stats }) => (
            mr="2"
            width="100%"
            display="flex"
-           justifyContent="center"
          >
            <Card>
              <Description>

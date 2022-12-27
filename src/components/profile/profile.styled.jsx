@@ -1,11 +1,11 @@
 import styled from 'styled-components';
 
 export const Card = styled.div`
+  padding-top: 25px;
   display: flex;
   flex-direction: column;
   align-items: center;
   max-width: 360px;
-  background-color: rgba(231, 236, 242, 1);
 `;
 
 export const Description = styled.div`

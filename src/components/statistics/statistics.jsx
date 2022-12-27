@@ -12,7 +12,6 @@ export const Statistic = ({ stats }) => (
            mr="2"
            width="100%"
            display="flex"
-           justifyContent="center"
          >
            <UserStatDiv>
              <StatisticTitle title="Upload stats" stats={data}></StatisticTitle>

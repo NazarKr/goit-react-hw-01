@@ -6,6 +6,9 @@
   min-height: 500px;
   background-color: #7065d6;
   border-radius: 50%;
+  position: relative;
+  top: 0;
+  left: 0;
 }
 
 

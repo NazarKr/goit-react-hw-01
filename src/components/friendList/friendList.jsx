@@ -10,7 +10,6 @@ export const FriendList = ({ friends }) => (
            mr="2"
            width="100%"
            display="flex"
-           justifyContent="center"
          >
            <FriendListUl>
              {friends.map(({ id, isOnline, avatar, name }) => (
